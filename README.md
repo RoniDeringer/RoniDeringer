@@ -17,7 +17,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 Atualmente trabalhando com **Laravel, Vue.js, React, Docker, AWS**
+- 🔭 Atualmente trabalhando com **Laravel, Vue.js, Git, Docker, AWS**
 
 - 🌱 Aprofundando conhecimentos em **Arquitetura de Microsserviços e Sistemas Escaláveis**
 
