@@ -97,7 +97,7 @@ Também possuo forte atuação em ambientes de produção utilizando:
 <a href="https://www.linkedin.com/in/ronideringer" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
-<a href="https://github.com/](https://github.com/RoniDeringer" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="50" width="50" />
+<a href="https://www.instagram.com/ronidering/" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="50" width="50" />
 </a>
 </p>
